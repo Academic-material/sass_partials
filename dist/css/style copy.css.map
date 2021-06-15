@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAQA,AAAA,IAAI,CAAC;EACD,UAAU,EATJ,OAAO;EAUb,KAAK,EAVC,OAAO;CAgBwB;;AARzC,AAGI,IAHA,CAGA,GAAG,CAAC;EACA,UAAU,EAZR,OAAO;CAYc;;AAJ/B,AAKI,IALA,CAKA,OAAO,CAAC;EACJ,UAAU,EAdR,OAAO;EAeT,MAAM,EAAE,GAAG,CAAC,KAAK,CAdhB,OAAO;EAGZ,qBAAqB,EAYM,IAAI;EAX/B,iBAAiB,EAWU,IAAI;EAV/B,aAAa,EAUc,IAAI;CAAI;;AChBvC,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,IAAI;CAAG",
+    "sources": [
+        "../../style copy.sass",
+        "../../_footer.sass"
+    ],
+    "names": [],
+    "file": "style copy.css"
+}
